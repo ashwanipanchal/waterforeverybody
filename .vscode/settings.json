@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2a3612f8-2a9e-4c14-bf73-7bfeee7278c0/resourceGroups/HackNight/providers/Microsoft.Web/sites/waterforeveryone",
+    "appService.deploySubpath": ""
+}
